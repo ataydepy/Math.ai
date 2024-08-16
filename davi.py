@@ -26,6 +26,8 @@ def pythagoras_theorem():
     c = math.sqrt(a**2 + b**2)
     return f'The hypotenuse is {c}'
 
+#teste mudança de codigo
+
 def triangle_area():
     base = float(input('What is the base? '))
     height = float(input('What is the height? '))
